@@ -1,0 +1,3 @@
+"sku", "qty", "name", "image"
+"1234567890418", "34", "My Product", "valid.jpg"
+"", "1", "My product 2", "invalid.bmp"
